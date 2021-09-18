@@ -32,6 +32,7 @@
 ![Java](https://img.shields.io/badge/java-ea2d2e.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-5fb832.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-566369.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 <br>
 
@@ -41,7 +42,6 @@
 ![Git](https://img.shields.io/badge/git-e84e31.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-00a8e8.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-a80030.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 <br>
 

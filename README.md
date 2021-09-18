@@ -2,15 +2,18 @@
 
 <br>
 
-<img align="center" alt="Banner" src="images/coding.png" width="100%"/>
+<img align="center" alt="Banner" src="images/programming.png" width="100%"/>
 
 <br>
 
 ## About Me
 
 - 📒 I’m currently learning **Java, Spring, and Hibernate** and working on side projects.
+
 - 🤝🏻 I’m passionate about design and development and look forward to collaborating to **Open source Projects**.
+
 - 🌎 I'm exploring **web development**, **android development**, **artificial intelligence** and **machine learning**.
+
 - 💬 Feel free to reach out: DM [@Aliencoder_75](https://twitter.com/Aliencoder_75)
 
 <br>
@@ -54,6 +57,7 @@
 <!-- <div align="center">
   <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliencoder-75&theme=react&hide_border=true" />
 </div> -->
+<br>
 <div align="center">
   <img width="75%" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Aliencoder-75&show_icons=true&locale=en&layout=demo&theme=blux&hide_border=true" />
 </div>

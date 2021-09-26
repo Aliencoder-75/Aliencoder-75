@@ -47,7 +47,7 @@
 
 ## Get In Touch
 
-[<img src="https://img.shields.io/badge/Linkedin-Dinesh KN-0a66c2?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/dinesh-kn-5a0952216/)
+[<img src="https://img.shields.io/badge/Linkedin-Dinesh KN-0a66c2?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/dinesh-kn)
 [<img src="https://img.shields.io/badge/Twitter-@Aliencoder_75-5da9dd?logo=twitter&style=for-the-badge">](https://twitter.com/Aliencoder_75)
 
 <br>

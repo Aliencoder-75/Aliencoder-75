@@ -41,7 +41,7 @@
 ![VScode](https://img.shields.io/badge/VSCode-3a94cd.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-e84e31.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-00a8e8.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-a80030.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-fcc624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 
 <br>
 

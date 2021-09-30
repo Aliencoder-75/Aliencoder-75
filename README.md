@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/css-2b96cb.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7410f0.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-c76494.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-d6002f.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-7377ad.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![MySql](https://img.shields.io/badge/mysql-005e86.svg?&style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,7 +41,7 @@
 ![VScode](https://img.shields.io/badge/VSCode-3a94cd.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-e84e31.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-00a8e8.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-fcc624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-fcc624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
